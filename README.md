@@ -1,19 +1,23 @@
-# vue03
+项目初始化
 
-## Project setup
-```
+```npm install
 npm install
 ```
 
-### Compiles and hot-reloads for development
-```
+项目运行
+
+```npm run serve
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
+项目主要组件库
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
++ Element
++ echarts
++ datav
+
+实现效果
+
+![image-20240807122335479](image-20240807122335479.png)
+
+![image-20240807122405752](image-20240807122405752.png)
